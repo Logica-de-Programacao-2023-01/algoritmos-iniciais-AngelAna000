@@ -3,7 +3,7 @@
 3. se a unidade for igual a Celsius
 4. então seu resultado = * 1,8 + 32
 5. Se a unidade for igual a Fahrenheit
+escreva o resultado
 6.senão:
 7 resultado = (temperatura - 32)/1,8
 8. escreva o resultado
-
