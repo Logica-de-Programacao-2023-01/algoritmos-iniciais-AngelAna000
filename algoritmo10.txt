@@ -3,7 +3,7 @@
 3. var somatorio= 0
 4.  var somatorio_pesos= 0
 5. para cada elemento da lista_numeros faça:      
-6. somatorio= somatorio + (elemento*peso_correspondente *peso_correspondente)
+6. somatorio= somatorio + (elemento_atual *peso_correspondente)
 7. para cada elemento listas_pesos, faça:
 8.     somatoria_pesos = somatoria_pesos + elemento_atual
 9. resultado = somatorio / somatorio_pesos
