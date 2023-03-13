@@ -3,5 +3,7 @@
 3. leia tempo
 4. var resultado = capital * taxas_juros
 5. para todos os valores entre 1 e tempo faça:
-6. resultado = resultado * taxa_juros
+6. resultado = resultado * (1+taxa_juros)
 7. escreva resultado
+
+OBS: corrigido na web
